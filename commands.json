@@ -1,0 +1,50 @@
+[{
+        "cmd": "DSPSYSVAL",
+        "name": "Display all Libraries",
+        "description": "shows list of all libraries",
+        "keywords": [
+            { "word": "display" },
+            { "word": "libraries" },
+            { "word": "dsp" },
+            { "word": "all" },
+            { "word": "sys" }
+        ]
+    },
+    {
+        "cmd": "DSPSYSVAL QSYSLIBL",
+        "name": "Display System Libraries",
+        "description": "shows list of system libraries",
+        "keywords": [
+            { "word": "display" },
+            { "word": "system" },
+            { "word": "libraries" },
+            { "word": "dsp" },
+            { "word": "sys" }
+        ]
+    },
+    {
+        "cmd": "WRKOBJPDM",
+        "name": "Work Object using PDM",
+        "description": "Display a list of objects",
+        "keywords": [
+            { "word": "display" },
+            { "word": "work" },
+            { "word": "objects" },
+            { "word": "wrk" },
+            { "word": "obj" }
+        ]
+    },
+    {
+        "cmd": "WRKSPLF",
+        "name": "Work Spool files",
+        "description": "display spool files, which is compile listing/program listing",
+        "keywords": [
+            { "word": "display" },
+            { "word": "work" },
+            { "word": "spool" },
+            { "word": "spl" },
+            { "word": "compile" },
+            { "word": "program" }
+        ]
+    }
+]

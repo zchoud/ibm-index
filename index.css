@@ -1,0 +1,13 @@
+div#text-input {
+    padding-top: 15px;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    padding-top: 5px;
+}
+
+#search-items {
+    text-align: left;
+}
